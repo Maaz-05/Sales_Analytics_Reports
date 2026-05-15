@@ -25,9 +25,9 @@ This project focuses on analyzing sales performance data to help businesses unde
 
 ### Project Goals
 
-1. Create Profit & Loss (P&L) reports by [Fiscal Year](YOUR_LINK_HERE) and [Monthly Analysis](YOUR_LINK_HERE)
+1. Create Profit & Loss (P&L) reports by [Fiscal Year](https://github.com/Maaz-05/Sales_Analytics_Reports/blob/main/P%20%26%20L%20by%20Fiscal%20Year.pdf) 
 
-2. Generate market-wise [P&L Reports](YOUR_LINK_HERE)
+2. Create Profit & Loss (P&L) reports by [Months](https://github.com/Maaz-05/Sales_Analytics_Reports/blob/main/P%20%26%20L%20by%20Fiscal%20Months.pdf)
 
 ### Project Overview
 
