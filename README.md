@@ -6,7 +6,7 @@
 
 1. Develop a [Customer Performance Report](https://github.com/Maaz-05/Sales_Analytics_Reports/blob/main/Customer%20Net%20Salees%20Performance%20Report.pdf)
 
-2. Build a detailed [Market Performance vs Sales Target Analysis](YOUR_LINK_HERE)
+2. Build a detailed [Market Performance vs Sales Target Analysis](YOUR_LINK_HERE](https://github.com/Maaz-05/Sales_Analytics_Reports/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
 
 ### Project Overview
 
