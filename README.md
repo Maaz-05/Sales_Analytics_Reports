@@ -42,6 +42,14 @@ The finance analytics section focuses on evaluating business profitability and f
 
 ---
 
+## Business Insights & Analysis
+
+- [Top 10 Products Performance Analysis](LINK)
+- [Top 5 Best And Worst Performing Products](LINK)
+- [Top 5 Countries by Sales Revenue](LINK)
+
+---
+
 # Technical Skills Applied
 
 - [x] Data cleaning and transformation using ETL processes
