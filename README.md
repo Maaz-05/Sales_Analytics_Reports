@@ -44,9 +44,9 @@ The finance analytics section focuses on evaluating business profitability and f
 
 ## Business Insights & Analysis
 
-- [Top 10 Products Performance Analysis](LINK)
-- [Top 5 Best And Worst Performing Products](LINK)
-- [Top 5 Countries by Sales Revenue](LINK)
+- [Top 10 Products Performance Analysis](https://github.com/Maaz-05/Sales_Analytics_Reports/blob/main/Top%2010%20Products.pdf)
+- [Top 5 And Bottom 5 Performing Products](https://github.com/Maaz-05/Sales_Analytics_Reports/blob/main/Top%205%20%26%20Bottom%205%20Products.pdf)
+- [Top 5 Countries by Sales Revenue](https://github.com/Maaz-05/Sales_Analytics_Reports/blob/main/Top%205%20Countries.pdf)
 
 ---
 
