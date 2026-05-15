@@ -4,7 +4,7 @@
 
 ### Project Goals
 
-1. Develop a [Customer Performance Report](YOUR_LINK_HERE)
+1. Develop a [Customer Performance Report]([YOUR_LINK_HERE](https://github.com/Maaz-05/Sales_Analytics_Reports/blob/main/Customer%20Net%20Salees%20Performance%20Report.pdf))
 
 2. Build a detailed [Market Performance vs Sales Target Analysis](YOUR_LINK_HERE)
 
